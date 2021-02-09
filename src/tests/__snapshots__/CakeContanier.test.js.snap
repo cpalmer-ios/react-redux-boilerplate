@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`action creators test to check the actions are matching the snapshots creates "BUY CAKE" type when buyCake is dispatched 1`] = `
+Array [
+  Object {
+    "type": "BUY_CAKE",
+  },
+]
+`;
+
+exports[`action creators test to check the actions are matching the snapshots creates "BUY_CAKE" type when buyCake is dispatched 1`] = `
+Array [
+  Object {
+    "type": "BUY_CAKE",
+  },
+]
+`;
+
+exports[`action creators test to check the actions are matching the snapshots creates BUY CAKE type when buyCake is dispatched 1`] = `
+Array [
+  Object {
+    "type": "BUY_CAKE",
+  },
+]
+`;
