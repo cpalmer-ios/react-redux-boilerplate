@@ -1,7 +1,9 @@
 {
   "name": "react-redux",
   "version": "0.1.0",
-  "private": true,
+  "description": "A boilerplate for react and redux with axios, JSON placeholder API, thunk and logger mddleware plus the redux dev tools already setup for you",
+  "author": "Chris Woolf",
+  "private": false,
   "proxy": "http://localhost:3000/graphql",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -9,7 +11,6 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
     "enzyme": "^3.11.0",
-    "immutable": "^4.0.0-rc.12",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-redux": "^7.2.2",
@@ -25,7 +26,6 @@
     "start": "react-scripts start && node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "jest": "jest",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# React Redux Boilerplate v0.1.0
+
+## A Simple React Redux Bolerplate featuring:
+
+A Functional Component example using connect()
+A Hooks Component example using connect()
+An axios API fetch users action from JSON placeholder ( with request, success and error actions)
+Thunk & logger Middle ware
+Redux Dev Tools setup
+
+All setup for you !
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
